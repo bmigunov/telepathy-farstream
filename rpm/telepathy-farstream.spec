@@ -1,5 +1,5 @@
 Name:           telepathy-farstream
-Version:        0.4.0
+Version:        0.6.0
 Release:        1
 Summary:        Telepathy client library to handle Call channels
 Group:          System/Libraries
